@@ -1,0 +1,22 @@
+build/default/production/_ext/1472/main.o:  \
+../main.c  \
+ ../../../Source/include/FreeRTOS.h  \
+../FreeRTOSConfig.h  \
+ ../../../Source/include/projdefs.h  \
+../../../Source/include/portable.h  \
+ ../../../Source/include/deprecated_definitions.h  \
+ ../../../Source/include/../../Source/portable/MPLAB/PIC24_dsPIC/portmacro.h  \
+ ../../../Source/include/mpu_wrappers.h  \
+../../../Source/include/task.h  \
+ ../../../Source/include/list.h  \
+../../../Source/include/queue.h  \
+ ../../../Source/include/task.h  \
+../../../Source/include/croutine.h  \
+ ../../Common/include/BlockQ.h  \
+../../Common/include/crflash.h  \
+ ../../Common/include/blocktim.h  \
+../../Common/include/integer.h  \
+ ../../Common/include/comtest2.h  \
+../../Common/include/partest.h  \
+../lcd.h  \
+ ../timertest.h 
